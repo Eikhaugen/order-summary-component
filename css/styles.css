@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: lightsteelblue;
+    flex-direction: column;
+}
+.summary-container{
+    height: 567px;
+    width: 327px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    border-radius: 20px;
+}
+img{
+    border-top-left-radius: inherit;
+    border-top-right-radius: inherit;
+}
+.headline{
+    text-align: center;
+    font-family: ;
+    font-size: ;
+    color: ;
+}
+
+
+
+
+
+
+
+
+
+
+.attribution {
+    font-size: 11px;
+    text-align: center;
+}
+
+.attribution a {
+    color: hsl(228, 45%, 44%);
+}
